@@ -68,5 +68,3 @@ function setup() { //código que só corre uma vez
 
 
   }
-
-}
